@@ -1,0 +1,1 @@
+Este pequeno projeto foi criado apenas para treinar HTML e CSS.
